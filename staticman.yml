@@ -14,7 +14,7 @@ transforms:
   email: md5
 name: "koso.me"
 comment: "New comment."
-allowedOrigins: ["localhost", "koso.me"]
+allowedOrigins: ["localhost", "koso.me","nakoo.gitlab.io"]
 notifications:
   enabled: true
   apiKey: "eD8UpIewnbvsnr3xymAV6PfqEviaHFQut20XTydwQ/DSshkl98ZA2QowOKSh2z19nrNZTkyJzhfrDk3hXYI8JleZPvJHcU6bGPExkT/+JprCFGblWZN9ZlLlvjq76M8eCRH1KC67dxnKI2xtpTtxUxk9jhRPrMkb+CO+9FN41WY="
