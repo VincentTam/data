@@ -13,6 +13,7 @@ filename: "comment-{@timestamp}"
 transforms:
   email: md5
 name: "koso.me"
+comment: "New comment."
 allowedOrigins: ["localhost", "koso.me"]
 notifications:
   enabled: true
