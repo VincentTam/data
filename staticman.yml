@@ -11,9 +11,9 @@ branch: "master"
 path: "_data/{options.slug}"
 filename: "comment-{@timestamp}"
 transforms:
-  email: md5
+  email: "md5"
 name: "koso.me"
-comments: "New comment."
+commitMessage: "New comment."
 allowedOrigins: ["localhost", "koso.me","nakoo.gitlab.io"]
 notifications:
   enabled: true
