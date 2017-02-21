@@ -6,14 +6,14 @@ generatedFields:
     type: "date"
     options:
       format: "iso8601"
-moderation: false
+moderation: true
 branch: "master"
 path: "_data/{options.slug}"
 filename: "comment-{@timestamp}"
 transforms:
   email: md5
 name: "koso.me"
-comment: "New comment."
+comments: "New comment."
 allowedOrigins: ["localhost", "koso.me","nakoo.gitlab.io"]
 notifications:
   enabled: true
