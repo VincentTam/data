@@ -1,3 +1,3 @@
 # comments datas
 
-comments datas for my blog.
+This source is used for building my blog.
