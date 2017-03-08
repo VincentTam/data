@@ -1,4 +1,4 @@
-allowedFields: ["name", "email", "url", "message"]
+allowedFields: ["name", "email", "message"]
 requiredFields: ["name", "email", "message"]
 format: "json"
 generatedFields:
@@ -19,3 +19,7 @@ notifications:
   enabled: true
   apiKey: "zwqVfHT2waQONBlnDGW9H+gQiea3KRtLunvD8fx+wbSlU5KMiguUIjVrHylCy6HR9htDGTLeSbsIwm2cK7S0P96chGJ1E1npvOqueG2P3KV4DZWoQgGavizgol4ZBz6RQObgkAmsaHfwaRPYtlXJhnFkqJuJ1crS1lyLa7/7GG4="
   domain: "XtExdUnjvI9lqV3eq0Vatj+FpqIDt9nyyifh66XucOjus+uT3Tb7M2NDx6AiMG4+sapGfRorHIAFNqpn4U1uGiYeK3vnMKZykZX+x8yIovfWy3yVmurV0JoUvOV3qi17z7jm1la7OWj7KGh7a8Sk810cQ2qbz8jYx78qnhbl55o="
+reCaptcha:
+  enabled: true
+  siteKey: "6LfhKhgUAAAAADYzBCe7QdZmtI34gTaWmf24kIW8"
+  secret: "n+3aMGkHMtI8dq5cVVXqR6gWZuQjFH3mJlIaDfogWVYRcZv4SexBUwd/f8TtN+UdU8oSUTix/fPewC/vczxd/n1zENtmJuuW8DbNtILq9ho7yDWsBYZWzHBXaIMcgL02HQeyJk5wRgEd6F3Cq7AFZOc44diuna+jpHl7AauqmhQ="
