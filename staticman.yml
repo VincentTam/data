@@ -1,4 +1,4 @@
-allowedFields: ["name", "email", "url", "message", "replying_to"]
+allowedFields: ["name", "email", "message", "url", "replying_to"]
 requiredFields: ["name", "email", "message"]
 format: "yaml"
 generatedFields:
