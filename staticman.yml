@@ -6,7 +6,7 @@ generatedFields:
     type: "date"
     options:
       format: "iso8601"
-  timestamp:
+  index:
     type: "date"
     options:
       format: "timestamp"
