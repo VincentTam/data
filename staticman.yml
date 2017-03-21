@@ -1,5 +1,5 @@
-allowedFields: ["name", "email", "message", "url", "replying_to"]
-requiredFields: ["name", "email", "message"]
+allowedFields: ["message", "name", "email", "url", "replying_to"]
+requiredFields: ["message", "name", "email"]
 format: "yaml"
 generatedFields:
   date:
