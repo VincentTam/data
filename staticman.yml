@@ -6,10 +6,6 @@ generatedFields:
     type: "date"
     options:
       format: "iso8601"
-  index:
-    type: "date"
-    options:
-      format: "timestamp"
 moderation: true
 branch: "master"
 path: "comments/{options.slug}"
