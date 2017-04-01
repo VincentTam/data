@@ -17,8 +17,8 @@ commitMessage: "New comment."
 allowedOrigins: ["localhost", "koso.me", "middle.koso.me"]
 notifications:
   enabled: true
-  apiKey: "zwqVfHT2waQONBlnDGW9H+gQiea3KRtLunvD8fx+wbSlU5KMiguUIjVrHylCy6HR9htDGTLeSbsIwm2cK7S0P96chGJ1E1npvOqueG2P3KV4DZWoQgGavizgol4ZBz6RQObgkAmsaHfwaRPYtlXJhnFkqJuJ1crS1lyLa7/7GG4="
-  domain: "XtExdUnjvI9lqV3eq0Vatj+FpqIDt9nyyifh66XucOjus+uT3Tb7M2NDx6AiMG4+sapGfRorHIAFNqpn4U1uGiYeK3vnMKZykZX+x8yIovfWy3yVmurV0JoUvOV3qi17z7jm1la7OWj7KGh7a8Sk810cQ2qbz8jYx78qnhbl55o="
+  apiKey: "BvLcFm2ogbWbHHC4OJT5VtiGjiT+Oz4XMntfBVjBOqvmPXJ69wVDaQNfuy6s91KpHv9z4a6Do6YowEWfvV97ceqFCEW6+GdDNcP9Zi/G20owULfsLZZB+FuEVCnT+V7hMiLwnDqsldGL2OAk7Mp6hYFAKe4WxtHUrGeMibi9boU="
+  domain: "bGdGfmjdYlLpS5YHmwjdGy2EjrJK3sOxnhtF49FznWj/gso7D+nz4P7w32rQ5fUBzx6jaEV03oRDRMFBlg1hKT+j9aeNU+93pGEaN1Q39HhpvFUyGeU+r27NJOQVVNNLkV/1Z2zy+QdH/ygRYYlVHP534txdk3toEgXd3dAxgSQ="
   fromAddress: "postmaster@koso.me"
 reCaptcha:
   enabled: true
