@@ -19,7 +19,6 @@ notifications:
   enabled: true
   apiKey: "BvLcFm2ogbWbHHC4OJT5VtiGjiT+Oz4XMntfBVjBOqvmPXJ69wVDaQNfuy6s91KpHv9z4a6Do6YowEWfvV97ceqFCEW6+GdDNcP9Zi/G20owULfsLZZB+FuEVCnT+V7hMiLwnDqsldGL2OAk7Mp6hYFAKe4WxtHUrGeMibi9boU="
   domain: "bGdGfmjdYlLpS5YHmwjdGy2EjrJK3sOxnhtF49FznWj/gso7D+nz4P7w32rQ5fUBzx6jaEV03oRDRMFBlg1hKT+j9aeNU+93pGEaN1Q39HhpvFUyGeU+r27NJOQVVNNLkV/1Z2zy+QdH/ygRYYlVHP534txdk3toEgXd3dAxgSQ="
-  fromAddress: "postmaster@koso.me"
 reCaptcha:
   enabled: true
   siteKey: "6LfhKhgUAAAAADYzBCe7QdZmtI34gTaWmf24kIW8"
