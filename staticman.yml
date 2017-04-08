@@ -14,7 +14,7 @@ transforms:
   email: "md5"
 name: "koso.me"
 commitMessage: "New comment."
-allowedOrigins: ["localhost", "koso.me", "middle.koso.me"]
+allowedOrigins: ["middle.koso.me"]
 notifications:
   enabled: true
 reCaptcha:
