@@ -17,6 +17,8 @@ commitMessage: "New comment."
 allowedOrigins: ["middle.koso.me"]
 notifications:
   enabled: true
+  apiKey: "ttvV8EF8tkoKdSwrw5iWvMtEtHvOaCNPShtHv2vMSJBdRgGO9h2KTkWneL1QMSvTMQU+NZjZ0MZOvaIuFNAHXT8aNX3NkoAZPl20GVIgRUgs3NS/MswRkFO/3260tQZk4Lvhx9MrVreg2GuwidjhbdN/cC4aa3MsWkn7mu97OMQ="
+  domain: "FEWgYkjZusnC6+Edxav0EnTr/s8IbqsTkAcB6cJXEhHkGPyhIKyCiT9RN8MdlQPS0VTVwToNeC3nCr7xcgK9fRH24m2OsnL+eiNAFDViWefjGaQGEMJKawI4AW48/nCU3dDsCGme+atzbPD4xaVM70/N8IXkplNvktT/CKOOilc="
 reCaptcha:
   enabled: true
   siteKey: "6LfhKhgUAAAAADYzBCe7QdZmtI34gTaWmf24kIW8"
