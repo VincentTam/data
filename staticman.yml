@@ -20,7 +20,7 @@ comments:
     enabled: true
     apiKey: "kIxkhMl9lBN5cVaZ9UCZhwFOdcexgyB6yBaSxPQielNDtF8JS0Ih6DOgdXqLgjJ1K41XvgZRtoGSrcBhTFwSjvcRZLtNkFX3Wp09+bR1uEph1uE1TC6hBG0TxeVYzNz+/ACVCMWWCXS9XhMocj3WApNnp64mF/sQKe6CEl2lWOg="
     domain: "DmYLuZWIXdSivDwBFV2gPyOGM7aIX8+uPTNP3uNFLCU7y3YYv3JkDXYIJ0IDzXYpwG48Uky3hAPgEqYWYjReZOYKrSL5ksjilVJycqAEibHOqpAUj/Kn9r85/fyGbxe6VSByvEIe06prrrWJO/IDBiKocgPrPNz+vNj7TSXn4kk="
-    fromAddress: "postmaster@koso.me"
+    fromAddress: "noreply@koso.me"
   reCaptcha:
     enabled: true
     siteKey: "6LfhKhgUAAAAADYzBCe7QdZmtI34gTaWmf24kIW8"
