@@ -1,6 +1,8 @@
 comments:
-  allowedFields: ["message", "name", "email", "url", "replying_to"]
-  requiredFields: ["message", "name", "email"]
+  allowedFields: ["name", "email", "url", "message", "replying_to"]
+  branch: "master"
+  commitMessage: "New comment."
+  filename: "comment-{@timestamp}"
   format: "yaml"
   generatedFields:
     date:
@@ -8,18 +10,15 @@ comments:
       options:
         format: "iso8601"
   moderation: true
-  branch: "master"
-  path: "comments/{options.slug}"
-  filename: "comment-{@timestamp}"
-  transforms:
-    email: "md5"
   name: "koso.me"
-  commitMessage: "New comment."
   notifications:
     enabled: true
     apiKey: "PVfS3Qn2YJKpoj8AfsGuarl6B+wQRzS+vjIRTwVybRrBhGBvmKCQ00jUrxhTO7SM5xf2gxP5/iwcvbN6YyIyYHCqqd0yvYh8TJDh3XXYRAeYPNe21YDj6KR7noFoT1nbG1MVF3h/KrDNfm7nEy9Xfv3RVg1lH28RRFpeJysjAXA="
     domain: "kBv7622PneqgMZOzUEUrFRNm9JI8EEpy/W0vX5Skwf37lq3QGU2ge2/6W57LCKbUXTtTPyGQ6NSB98OeHsSXVxUo4Lu6ybCLAaFaknKM+mmMMngxNRlas09T+9KpekQiFDmjTjNaKPQ5vGa7UyzuyTe8jOH3zWldQgF2HKI8N+Y="
-    fromAddress: "postmaster@koso.me"
+  path: "comments/{options.slug}"
+  requiredFields: ["name", "email", "message"]
+  transforms:
+    email: "md5"
   reCaptcha:
     enabled: true
     siteKey: "6LfhKhgUAAAAADYzBCe7QdZmtI34gTaWmf24kIW8"
