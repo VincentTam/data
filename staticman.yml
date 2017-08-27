@@ -15,7 +15,6 @@ comments:
     email: "md5"
   name: "koso.me"
   commitMessage: "New comment."
-  allowedOrigins: ["middle.koso.me"]
   notifications:
     enabled: true
     apiKey: "PVfS3Qn2YJKpoj8AfsGuarl6B+wQRzS+vjIRTwVybRrBhGBvmKCQ00jUrxhTO7SM5xf2gxP5/iwcvbN6YyIyYHCqqd0yvYh8TJDh3XXYRAeYPNe21YDj6KR7noFoT1nbG1MVF3h/KrDNfm7nEy9Xfv3RVg1lH28RRFpeJysjAXA="
