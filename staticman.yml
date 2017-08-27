@@ -18,9 +18,9 @@ comments:
   allowedOrigins: ["middle.koso.me"]
   notifications:
     enabled: true
-    apiKey: "kIxkhMl9lBN5cVaZ9UCZhwFOdcexgyB6yBaSxPQielNDtF8JS0Ih6DOgdXqLgjJ1K41XvgZRtoGSrcBhTFwSjvcRZLtNkFX3Wp09+bR1uEph1uE1TC6hBG0TxeVYzNz+/ACVCMWWCXS9XhMocj3WApNnp64mF/sQKe6CEl2lWOg="
-    domain: "DmYLuZWIXdSivDwBFV2gPyOGM7aIX8+uPTNP3uNFLCU7y3YYv3JkDXYIJ0IDzXYpwG48Uky3hAPgEqYWYjReZOYKrSL5ksjilVJycqAEibHOqpAUj/Kn9r85/fyGbxe6VSByvEIe06prrrWJO/IDBiKocgPrPNz+vNj7TSXn4kk="
-    fromAddress: "noreply@koso.me"
+    apiKey: "PVfS3Qn2YJKpoj8AfsGuarl6B+wQRzS+vjIRTwVybRrBhGBvmKCQ00jUrxhTO7SM5xf2gxP5/iwcvbN6YyIyYHCqqd0yvYh8TJDh3XXYRAeYPNe21YDj6KR7noFoT1nbG1MVF3h/KrDNfm7nEy9Xfv3RVg1lH28RRFpeJysjAXA="
+    domain: "kBv7622PneqgMZOzUEUrFRNm9JI8EEpy/W0vX5Skwf37lq3QGU2ge2/6W57LCKbUXTtTPyGQ6NSB98OeHsSXVxUo4Lu6ybCLAaFaknKM+mmMMngxNRlas09T+9KpekQiFDmjTjNaKPQ5vGa7UyzuyTe8jOH3zWldQgF2HKI8N+Y="
+    fromAddress: "postmaster@koso.me"
   reCaptcha:
     enabled: true
     siteKey: "6LfhKhgUAAAAADYzBCe7QdZmtI34gTaWmf24kIW8"
