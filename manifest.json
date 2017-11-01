@@ -1,5 +1,8 @@
 {
   "app.css": "/build/style-e62093f5893db37a850f20c3fd2d264d.css",
+  "app.css.map": "/build/style-e62093f5893db37a850f20c3fd2d264d.css.map",
   "app.js": "/build/app-e17e0d54f2c2878d95ee.js",
-  "sw.js": "/build/sw-bdab80095ce1149b1393.js"
+  "app.js.map": "/build/app-e17e0d54f2c2878d95ee.js.map",
+  "sw.js": "/build/sw-6eb5b6d83f90e319b4cb.js",
+  "sw.js.map": "/build/sw-6eb5b6d83f90e319b4cb.js.map"
 }
