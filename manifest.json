@@ -1,8 +1,8 @@
 {
   "app.css": "/build/style-e62093f5893db37a850f20c3fd2d264d.css",
   "app.css.map": "/build/style-e62093f5893db37a850f20c3fd2d264d.css.map",
-  "app.js": "/build/app-e17e0d54f2c2878d95ee.js",
-  "app.js.map": "/build/app-e17e0d54f2c2878d95ee.js.map",
-  "sw.js": "/build/sw-fd204757b22339103709.js",
-  "sw.js.map": "/build/sw-fd204757b22339103709.js.map"
+  "app.js": "/build/app-db2f73b1b418a94005cd.js",
+  "app.js.map": "/build/app-db2f73b1b418a94005cd.js.map",
+  "sw.js": "/build/sw-3bda46a060dc78fa2fb2.js",
+  "sw.js.map": "/build/sw-3bda46a060dc78fa2fb2.js.map"
 }
