@@ -1,5 +1,6 @@
 {
   "app.css": "/build/style-e62093f5893db37a850f20c3fd2d264d.css",
-  "app.js": "/build/app-c45daf21736ad5918883.js",
-  "sw.js": "/build/sw-8b585071594411d1e795.js"
+  "app.js": "/build/app-ff2820f174361dfab987.js",
+  "post.js": "/build/post-f0ff3e0ca98cd3497505.js",
+  "sw.js": "/build/sw-b0bcde0bfb08d13970e1.js"
 }
