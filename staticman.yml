@@ -13,8 +13,8 @@ comments:
   name: "koso.me"
   notifications:
     enabled: true
-    apiKey: "PVfS3Qn2YJKpoj8AfsGuarl6B+wQRzS+vjIRTwVybRrBhGBvmKCQ00jUrxhTO7SM5xf2gxP5/iwcvbN6YyIyYHCqqd0yvYh8TJDh3XXYRAeYPNe21YDj6KR7noFoT1nbG1MVF3h/KrDNfm7nEy9Xfv3RVg1lH28RRFpeJysjAXA="
-    domain: "kBv7622PneqgMZOzUEUrFRNm9JI8EEpy/W0vX5Skwf37lq3QGU2ge2/6W57LCKbUXTtTPyGQ6NSB98OeHsSXVxUo4Lu6ybCLAaFaknKM+mmMMngxNRlas09T+9KpekQiFDmjTjNaKPQ5vGa7UyzuyTe8jOH3zWldQgF2HKI8N+Y="
+    apiKey: "eyCYF5VTyWZCsWGg/FRcJKhWOmq2EGXKdu1wmx4uJO9yC+mr2E1IbilmWLw0lD0PfYm1VCyXj0NmBP/5Dt2bxB2ltezHScqIJc6uhqYEHnScQ2lbQVUFO9fV/8cH66B4IblKt/0DYj25Dx1XyaxF3WBTGCD4EhvMe9h01VaWm+0="
+    domain: "K7Yrttp2GLgaJkingaJeuZY28kzP9QWkIEYN5xauX4X63ahTxnNbcnPFH4Quv7J/dw10CtW1ZtdS0xz5RwIIYhm19vcn+cNNxgs6waT+0UXGRcog/91Y2MByAMylzaPBBuNZ1v8IlCB09bAj4CDEknyFF+UTKHx494Q+cEq9bCg="
   path: "comments/{options.slug}"
   requiredFields: ["name", "email", "message"]
   transforms:
