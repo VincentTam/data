@@ -15,7 +15,6 @@ comments:
     enabled: true
     apiKey: "z0ZDOJSVLWpIrHbG1c/11tpBCGONsPPSg6W6v8WzTB0jsxMqzUgNoyfOnN+ht4NQDDU6MpHBwgUcXNjp/dSPVQPJQBphIoTApDnS/WtzI4kE69dRC9uRfpCcQDFCS8wGdFGxzjTe70jYP+8hTL5cMoYS9rq+h71aZVwkPnVsHCo="
     domain: "aMjzhCpFUflx1pF8jY8IVl4e6kRsFm+mtKe3d8eAxcVV9nA2GYJh10YOpPmb6U/r0JwBwQPWtwYxpa8EubTV8k5FBJ+qkyvjzPkxH7l/rTgd0XTcIlUV4lvm5rg24U409AhLBakUqm3128aORMm6G5P5Zb5E5M0BjbOFenw3uTU="
-    fromAddress: "postmaster@www.koso.me"
   path: "comments/{options.slug}"
   requiredFields: ["name", "email", "message"]
   transforms:
